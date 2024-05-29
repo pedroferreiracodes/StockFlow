@@ -10,7 +10,7 @@ public class Splash extends JFrame {
 
     public Splash() {
         setContentPane(LoadingPage);
-        setSize(850, 400);
+        setSize(850, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setVisible(true);
