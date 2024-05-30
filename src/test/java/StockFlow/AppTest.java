@@ -1,4 +1,4 @@
-package pedroferreiracodes;
+package StockFlow;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

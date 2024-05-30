@@ -1,4 +1,4 @@
-package pedroferreiracodes;
+package StockFlow.JFrameApp;
 
 import javax.swing.*;
 
